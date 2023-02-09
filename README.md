@@ -4,7 +4,7 @@
 new text
 
 very important changes for my text
-add basic page layputa
+add basic page layout
 
 
 change structure of the project
